@@ -1,0 +1,115 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=C7(C1206)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C14(C1206)
+Added Component: Designator=C15(C1206)
+Added Component: Designator=D1(DIODE-0.7)
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Component: Designator=R4(J1-0603)
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R6(J1-0603)
+Added Component: Designator=R7(J1-0603)
+Added Component: Designator=R8(J1-0603)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R14(J1-0603)
+Added Component: Designator=R16(J1-0603)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=U?(DUB8)
+Added Pin To Net: NetName=GND_ISO2 Pin=C1-1
+Added Pin To Net: NetName=VDD_ISO2 Pin=C1-2
+Added Pin To Net: NetName=GND_ISO1 Pin=C2-1
+Added Pin To Net: NetName=VDD_ISO1 Pin=C2-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND_1 Pin=C6-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=GND_1 Pin=C7-1
+Added Pin To Net: NetName=NetC5_2 Pin=C7-2
+Added Pin To Net: NetName=GND_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND_1 Pin=C13-1
+Added Pin To Net: NetName=GND_1 Pin=C13-2
+Added Pin To Net: NetName=VDD_ISO1 Pin=C14-2
+Added Pin To Net: NetName=GND_ISO1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC8_2 Pin=D1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=R5-1
+Added Pin To Net: NetName=GND_ISO1 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR4_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetD1_1 Pin=R7-2
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Pin To Net: NetName=NetC5_2 Pin=R8-2
+Added Pin To Net: NetName=NetD1_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetC8_2 Pin=R10-1
+Added Pin To Net: NetName=GND_1 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=GND_ISO1 Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR11_1 Pin=R13-2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR12_2 Pin=R14-2
+Added Pin To Net: NetName=VDD_ISO1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetC15_2 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetC8_2 Pin=U?-1
+Added Pin To Net: NetName=NetC5_2 Pin=U?-2
+Added Pin To Net: NetName=NetR9_2 Pin=U?-3
+Added Pin To Net: NetName=GND_ISO2 Pin=U?-4
+Added Pin To Net: NetName=GND_1 Pin=U?-5
+Added Pin To Net: NetName=NetR14_1 Pin=U?-6
+Added Pin To Net: NetName=NetR13_1 Pin=U?-7
+Added Pin To Net: NetName=VDD_ISO2 Pin=U?-8
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C5 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C6 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C13 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C14 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C15 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component D1 D Zener
+Added Member To Class: ClassName=Sheet3 Member=Component R1 
+Added Member To Class: ClassName=Sheet3 Member=Component R2 
+Added Member To Class: ClassName=Sheet3 Member=Component R3 Res3
+Added Member To Class: ClassName=Sheet3 Member=Component R4 Res3
+Added Member To Class: ClassName=Sheet3 Member=Component R5 Res3
+Added Member To Class: ClassName=Sheet3 Member=Component R6 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R7 Shunt-Res
+Added Member To Class: ClassName=Sheet2 Member=Component R8 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R9 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R10 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R11 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R12 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R13 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R14 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component U? AMC1200_DUB_8
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

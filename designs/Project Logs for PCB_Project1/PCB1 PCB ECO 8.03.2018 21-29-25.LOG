@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=U? Old DesignItemId=AMC1200_DUB_8 New DesignItemId=DCR010503_DVB_12
+Change Component Footprint: Designator=U? Old Footprint=DUB8 New Footprint=DVB12
+Change Component Comment : Designator=U? Old Comment=AMC1200_DUB_8 New Comment=DCR010503_DVB_12

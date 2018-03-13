@@ -1,0 +1,19 @@
+Bill of Material for 
+On 14.03.2018 at 02:04:07
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ AMC1100_DUB_8       DUB8             1    U5                           Imported             
+ AMC1200_DUB_8       DUB8             1    U3                           Imported             
+ BZT52C6V8-V-GS08    SOD123           1    CR1                          Imported             
+ C0805               0805             8    C4, C5, C6, C7, C8, C9, C10  Ceramic Chip Capacitor - Standard 
+                                           C11
+ Cap Semi            C1206            3    C1, C2, C3                   Capacitor (Semiconductor SIM Model) 
+ DCP010505B_DUA_7    DUA7             2    U1, U2                       Imported             
+ ERJ6EN              6-0805          16    R1, R2, R3, R4, R6, R7, R8   Precision Thick Film Chip Resistor, 10 Ohm to 2.2M Ohm Range, 1% Tolerance, 0805 Size, 0.1 W 
+                                           R10, R11, R12, R13, R14, R15
+                                           R16, R17, R18
+ ERJ8EN              8-1206           1    R9                           Precision Thick Film Chip Resistor, 10 Ohm to 2.2M Ohm Range, 1% Tolerance, 1206 Size, 0.125 W 
+ ERJM1WT             M1WT-2512        1    R5                           Low Resistance Value Chip Resistor, 2m Ohm to 4m Ohm Range, 1% and 5% Tolerance, 2512 Size, 1 W 
+ Header 2            HDR1X2           2    P1, P2                       Header, 2-Pin        
+ OPA376_DCK_5        DCK5             2    U4, U6                       Imported             

@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Sheet1.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:42:11 On 5.03.2018
