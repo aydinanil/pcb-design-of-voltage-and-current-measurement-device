@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetDS1_11 Pin=U10-2
+Removed Pin From Net: NetName=NetDS1_12 Pin=U10-3
+Removed Pin From Net: NetName=NetDS1_13 Pin=U10-4
+Removed Pin From Net: NetName=NetDS1_14 Pin=U10-5
+Removed Pin From Net: NetName=NetDS1_4 Pin=U10-11
+Removed Pin From Net: NetName=NetDS1_5 Pin=U10-14
+Removed Pin From Net: NetName=NetDS1_6 Pin=U10-15
+Removed Pin From Net: NetName=NetR22_2 Pin=U10-18
+Removed Pin From Net: NetName=NetR13_2 Pin=U10-19
+Removed Pin From Net: NetName=NetR6_2 Pin=U10-20
+Removed Pin From Net: NetName=NetDS1_7 Pin=U10-38
+Removed Pin From Net: NetName=NetDS1_8 Pin=U10-39
+Removed Pin From Net: NetName=NetDS1_9 Pin=U10-40
+Removed Pin From Net: NetName=NetDS1_10 Pin=U10-41
+Change Component DesignItemId : Designator=U10 Old DesignItemId=PIC18F45K20-E/ML New DesignItemId=PIC18F45K20-E/P
+Change Component Footprint: Designator=U10 Old Footprint=QFN-ML44_N New Footprint=PDIP600-P40
+Change Component Comment : Designator=U10 Old Comment=PIC18F45K20-E/ML New Comment=PIC18F45K20-E/P
+Added Pin To Net: NetName=NetR22_2 Pin=U10-1
+Added Pin To Net: NetName=NetR13_2 Pin=U10-2
+Added Pin To Net: NetName=NetR6_2 Pin=U10-3
+Added Pin To Net: NetName=NetDS1_7 Pin=U10-19
+Added Pin To Net: NetName=NetDS1_8 Pin=U10-20
+Added Pin To Net: NetName=NetDS1_9 Pin=U10-21
+Added Pin To Net: NetName=NetDS1_10 Pin=U10-22
+Added Pin To Net: NetName=NetDS1_11 Pin=U10-27
+Added Pin To Net: NetName=NetDS1_12 Pin=U10-28
+Added Pin To Net: NetName=NetDS1_13 Pin=U10-29
+Added Pin To Net: NetName=NetDS1_14 Pin=U10-30
+Added Pin To Net: NetName=NetDS1_4 Pin=U10-35
+Added Pin To Net: NetName=NetDS1_5 Pin=U10-37
+Added Pin To Net: NetName=NetDS1_6 Pin=U10-38
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

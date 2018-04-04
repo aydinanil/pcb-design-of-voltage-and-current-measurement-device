@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\antif\Desktop\pcb design of voltage and current measurement device\designs\PCB1.PcbDoc
+RuleKind=Clearance|RuleName=Copper Pour|Scope=Board|Minimum=50.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
