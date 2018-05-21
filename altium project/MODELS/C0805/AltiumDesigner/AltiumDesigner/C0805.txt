@@ -1,0 +1,126 @@
+# Created by Ultra Librarian Gold 8.2.179 Copyright © 1999-2018
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "C0805C")
+Pad (Name "1") (Location -33.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 36, 57) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 33.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 36, 57) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -61.5, -38.5) (End -61.5, 38.5) (Layer Mechanical15) 
+Line (Width 6) (Start -61.5, 38.5) (End 61.5, 38.5) (Layer Mechanical15) 
+Line (Width 6) (Start 61.5, 38.5) (End 61.5, -38.5) (Layer Mechanical15) 
+Line (Width 6) (Start 61.5, -38.5) (End -61.5, -38.5) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-61.5, -38.5)
+Point (-61.5, 38.5)
+Point (61.5, 38.5)
+Point (61.5, -38.5)
+EndPolygon
+Line (Width 6) (Start -3.39173794, -33.5) (End 3.39173794, -33.5) (Layer TopOverlay) 
+Line (Width 6) (Start 3.39173794, 33.5) (End -3.39173794, 33.5) (Layer TopOverlay) 
+Line (Width 1) (Start -15.5, -28.5) (End -15.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -15.5, 28.5) (End -43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, 28.5) (End -43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, -28.5) (End -15.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 15.5, 28.5) (End 15.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 15.5, -28.5) (End 43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, -28.5) (End 43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, 28.5) (End 15.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, -28.5) (End 43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, -28.5) (End 43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, 28.5) (End -43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, 28.5) (End -43.5, -28.5) (Layer Mechanical13) 
+Step (Name C0805C.stp)
+EndFootprint
+
+Footprint (Name "C0805C-M")
+Pad (Name "1") (Location -35.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 40, 61) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 35.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 40, 61) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -75.5, -50.5) (End -75.5, 50.5) (Layer Mechanical15) 
+Line (Width 6) (Start -75.5, 50.5) (End 75.5, 50.5) (Layer Mechanical15) 
+Line (Width 6) (Start 75.5, 50.5) (End 75.5, -50.5) (Layer Mechanical15) 
+Line (Width 6) (Start 75.5, -50.5) (End -75.5, -50.5) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-75.5, -50.5)
+Point (-75.5, 50.5)
+Point (75.5, 50.5)
+Point (75.5, -50.5)
+EndPolygon
+Line (Width 1) (Start -15.5, -28.5) (End -15.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -15.5, 28.5) (End -43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, 28.5) (End -43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, -28.5) (End -15.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 15.5, 28.5) (End 15.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 15.5, -28.5) (End 43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, -28.5) (End 43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, 28.5) (End 15.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, -28.5) (End 43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, -28.5) (End 43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, 28.5) (End -43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, 28.5) (End -43.5, -28.5) (Layer Mechanical13) 
+Step (Name C0805C-M.stp)
+EndFootprint
+
+Footprint (Name "C0805C-L")
+Pad (Name "1") (Location -31.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 32, 57) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 31.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 32, 57) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -51.5, -32.5) (End -51.5, 32.5) (Layer Mechanical15) 
+Line (Width 6) (Start -51.5, 32.5) (End 51.5, 32.5) (Layer Mechanical15) 
+Line (Width 6) (Start 51.5, 32.5) (End 51.5, -32.5) (Layer Mechanical15) 
+Line (Width 6) (Start 51.5, -32.5) (End -51.5, -32.5) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-51.5, -32.5)
+Point (-51.5, 32.5)
+Point (51.5, 32.5)
+Point (51.5, -32.5)
+EndPolygon
+Line (Width 6) (Start -3.39173794, -33.5) (End 3.39173794, -33.5) (Layer TopOverlay) 
+Line (Width 6) (Start 3.39173794, 33.5) (End -3.39173794, 33.5) (Layer TopOverlay) 
+Line (Width 1) (Start -15.5, -28.5) (End -15.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -15.5, 28.5) (End -43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, 28.5) (End -43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, -28.5) (End -15.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 15.5, 28.5) (End 15.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 15.5, -28.5) (End 43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, -28.5) (End 43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, 28.5) (End 15.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, -28.5) (End 43.5, -28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, -28.5) (End 43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start 43.5, 28.5) (End -43.5, 28.5) (Layer Mechanical13) 
+Line (Width 1) (Start -43.5, 28.5) (End -43.5, -28.5) (Layer Mechanical13) 
+Step (Name C0805C-L.stp)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "C0805C100C1GACTU") (PartCount 1) (DesPrefix "C?")
+Pin (Location 200, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 1) (PartSwap 1) (PinSeq 2) (Part 1)
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Hidden "1") (PinSwap 1) (PartSwap 1) (PinSeq 1) (Part 1)
+Line (Width 8) (Start 137, -75) (End 137, 75) (Part 1)
+Line (Width 8) (Start 162, -75) (End 162, 75) (Part 1)
+Line (Width 8) (Start 162, 0) (End 200, 0) (Part 1)
+Line (Width 8) (Start 100, 0) (End 137, 0) (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "C0805C100C1GACTU") (Part 1)
+Parameter (Name "Vendor") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Kemet") (Part 1)
+Parameter (Name "Built_By") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "EMA_UL_Team") (Part 1)
+Parameter (Name "RefDes") (Location 150, 150) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 150, -300) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Parameter (Name "Value") (Location 150, -150) (Height 137) (Rotation 0) (Justification Center) (Value "Value") (Part 1)
+Parameter (Name "C") (Location 0, 0) (Height 1) (Rotation 0) (Justification Center) (Value "Copyright (C) 2015 Accelerated Designs. All rights reserved") (Part 1)
+Comment (Value "Part Number: C0805C100C1GACTU") (Part 1)
+Footprint (Name "C0805C")
+EndComponent
+EndComponents
